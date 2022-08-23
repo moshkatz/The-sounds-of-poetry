@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Hear The Songs</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+		
+		<link rel="icon" href="images/title.png" type="image">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;700;900&display=swap" rel="stylesheet">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="css/magnific-popup.css">
+
+        <link href="css/aos.css" rel="stylesheet">
+
+        <link href="css/templatemo-nomad-force.css" rel="stylesheet">
+<!--
+
+TemplateMo 567 Nomad Force
+
+https://templatemo.com/tm-567-nomad-force
+
+-->
+    </head>
+    
+    <body>
+    
+        <main>
+
+            <section class="hero" id="hero">
+                <div class="heroText">
+                    <h1 class="text-white mt-4 mb-lg-4" data-aos="zoom-in" data-aos-delay="700">
+                        The sounds of poetry
+                    </h1>
+
+                    <p class="text-secondary-white-color" data-aos="fade-up" data-aos-delay="1000">
+                       By<strong class="custom-underline"> Moshe Katz </strong>
+                    </p>
+                </div>
+
+                <div class="videoWrapper">
+                    <video autoplay="" loop="" muted="" class="custom-video" poster="videos/792bd98f3e617786c850493560e11c45.jpg">
+                        <source src="videos/814dc43e870597176cad645798825c03.mp4" type="video/mp4">
+
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+
+                <div class="overlay"></div>
+            </section>
+
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+					
+            <nav class="navbar navbar-expand-lg bg-light shadow-lg">
+                <div class="container">
+                         <a class="navbar-brand" href="index.html">
+                                <strong>Home</strong>
+                          </a>
+
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav mx-auto">
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#about">A few things about me</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#portfolio">gallery</a>
+                            </li>
+							<li class="nav-item">
+                                <a class="nav-link" href="index.html#news">More photos</a>
+                           </li>							
+
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">My Project</a>
+                            
+                           </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <section class="section-padding pb-0" id="about">
+                <div class="container mb-5 pb-lg-5">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2 class="mb-3" data-aos="fade-up">A little about me...</h2>
+                        </div>
+
+                        <div class="col-lg-6 col-12 mt-3 mb-lg-5">
+                            <p class="me-4" data-aos="fade-up" data-aos-delay="300">My name is Moshe Katz and I was born in Jerusalem, I'm 24 years old after military service at 8200. <br><br> From my childhood, I suffered from barely self-expression and would rarely talk and communicate with new friends. So I was only play with a small group of friends and in my spare time I would play on pc.
+						<br><br> Over the years, I've taken refuge from the difficulties of guided imagination. I'd get myself into characters and tell myself a story that I'm his inventor	</p>
+                        </div>
+
+                        <div class="col-lg-6 col-12 mt-lg-3 mb-lg-5">
+                            <p data-aos="fade-up" data-aos-delay="500">After high school, I went to yeshiva, where people shared stories and poems they wrote, There I was discovered my ability,<br>ability to put my thoughts songs and stories into the paper without wanting to anyone.
+							<br><br> My first song I went up anonymity, because I didn't want to be judged by my ag, And that's where it touched someone.
+						     <br>The same guy it touched looked for me and thanked me for the words, It shook him and revived him.<br><br>It's a little taste of my songs and stories	</p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-6 col-12 p-0">      
+                            <img src="images/elena-rabkina-eVVzwsNhNf4-unsplash.jpg" class="img-fluid about-image" alt="">
+                        </div>
+
+                        <div class="col-lg-6 col-12 p-0">  
+                            <section id="myCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img src="images/people/studio-shot-beautiful-happy-retired-caucasian-female-with-pixie-hairdo-crossing-arms-her-chest-having-confident-look-smiling-broadly.jpg" class="img-fluid team-image" alt="">
+
+                                    </div>
+                            </section>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-padding" id="portfolio">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <h2 class="mb-5 text-center" data-aos="fade-up">gallery</h2>
+                        </div>
+
+                        <div class="col-lg-6 col-12">
+                            <div class="portfolio-thumb mb-5" data-aos="fade-up">
+                                <a href="images/portfolio/visuals-Y4qzW3AsvqI-unsplash.jpeg" class="image-popup">
+                                    <img src="images/portfolio/visuals-Y4qzW3AsvqI-unsplash.jpeg" class="img-fluid portfolio-image" alt="">
+                                </a>
+
+                            </div> 
+
+                            <div class="portfolio-thumb" data-aos="fade-up">
+                                <a href="images/portfolio/severin-candrian-nn3uIZqmUtE-unsplash.jpeg" class="image-popup">
+                                    <img src="images/portfolio/severin-candrian-nn3uIZqmUtE-unsplash.jpeg" class="img-fluid portfolio-image" alt="">
+                                </a>
+
+                                
+                            </div> 
+                        </div>
+
+                        <div class="col-lg-6 col-12">
+                            <div class="portfolio-thumb mt-5 mt-lg-0 mb-5" data-aos="fade-up">
+                                <a href="images/portfolio/tyler-nix-Y1drF0Y3Oe0-unsplash.jpeg" class="image-popup">
+                                    <img src="images/portfolio/tyler-nix-Y1drF0Y3Oe0-unsplash.jpeg" class="img-fluid portfolio-image" alt="">
+                                </a>
+
+                               
+                            </div> 
+
+                            <div class="portfolio-thumb" data-aos="fade-up">
+                                <a href="images/portfolio/thought-catalog-gv-T-OjLe4c-unsplash.jpeg" class="image-popup">
+                                    <img src="images/portfolio/thought-catalog-gv-T-OjLe4c-unsplash.jpeg" class="img-fluid portfolio-image" alt="">
+                                </a>
+
+                            </div> 
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+
+
+             <section class="news section-padding" id="news">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <h2 class="mb-5 text-center" data-aos="fade-up">More photos</h2>
+                        </div>
+
+                        <div class="col-lg-6 col-12 mb-5 mb-lg-0">
+                            <div class="news-thumb" data-aos="fade-up">
+                                    <img src="images/news/caroline-lm-uqveD8dYPUM-unsplash.jpg" class="img-fluid large-news-image news-image" alt="">
+                               
+
+                            </div> 
+                        </div>
+
+                        <div class="col-lg-6 col-12">
+                            
+                                <div class="news-thumb" data-aos="fade-up">
+                                    
+ 
+                                        <img src="images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg" class="img-fluid large-news-image news-image" alt="">
+                           </div>
+                                
+                            </div> 
+
+                                      
+                                      <div class="col-lg-6 col-12">
+									  
+                                        <div class="news-thumb" data-aos="fade-up">
+										<br>
+
+									   <img src="images/news/maria-stewart-p4tj0g-_aMM-unsplash.jpeg" class="img-fluid large-news-image news-image" alt="">
+                                      </div>
+	   
+                                </div>
+								                                      <div class="col-lg-6 col-12">
+									  
+                                        <div class="news-thumb" data-aos="fade-up">
+										<br>
+
+									   <img src="images/news/תן לי אות.jpeg" class="img-fluid large-news-image news-image" alt="">
+                                      </div>
+	   
+                                </div>
+                            </div> 
+                        </div>
+
+                    </div>
+                </div>
+                               
+                </div>
+            </section>
+			</main>
+			        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-12">
+                        <h5 class="text-white">
+                        </h5>
+
+                    </div>
+
+                    <div class="col-6">
+                        <p class="copyright-text mb-0">Copyright © Nomad Force 2021 
+                        
+                        <br><br>Design: <a href="https://templatemo.com/page/1" target="_parent">TemplateMo</a></p>
+                    
+                    </div>
+        </footer>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/aos.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific-popup-options.js"></script>
+        <script src="js/scrollspy.min.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
