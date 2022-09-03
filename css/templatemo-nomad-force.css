@@ -474,6 +474,7 @@ strong {
 
 .portfolio-image,
 .news-image {
+  border-radius:20px;
   display: block;
   transition: transform 0.6s ease-out;
 }
