@@ -371,7 +371,7 @@ strong {
 .heroText {
   position: absolute;
   z-index: 9;
-  top: 7%;
+  top: 18%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 85%;
@@ -657,7 +657,7 @@ strong {
   }
 
   h2 {
-    font-size: 36px;
+    font-size: 28px;
   }
 
   h3 {
